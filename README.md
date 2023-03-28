@@ -14,7 +14,9 @@ A: Nope! I'm actually just learning the language myself. That's why I created th
 
 ## WHhat's in this repository?
 
-Right now? YUou'll find "Syllables" and "Words" directories. Syllables contains the Hiragana alphabet in two (Ni, に, 2) subfolders.
+UPDATE: 3/28 - I've added more vocabulary cards and reorganized the "Words" folder into parts of speech, concepts (Numbers, Colors) and Conversatinal (Hello, goodbye, Yes, No).
+
+Insidhe this repo you'll find "Syllables" and "Words" directories. Each two (Ni, に, 2) subfolders (with "Words" divided as mentioned in the 3/28 update)
 
 - The "Backgrounds" subfolder contains Hiragana in black, on a white background.
 - The "Transparent" subfolder contains Hiragana on a transparent background.
