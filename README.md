@@ -1,6 +1,6 @@
-# No Copyright Hiragana for Everyone!
+# No Copyright Hiragana and Katakana for Everyone!
 
-## Copyright free images of the Japanese Hiragana alphabet
+## Copyright free images of the Japanese Hiragana and Katakana alphabets
 
 FAQ:
 
@@ -28,7 +28,7 @@ This is a labor of love, and I expect nothing in return. You're more than welcom
 
 ### Are you going to make a no copyright Katakana/Kanji?
 
-A: Yes, eventually! Right now I'm focused on learning and mastering hiragana, but I want to learn katakana and Kanji as well.
+A: UPDATE: Yes, Katakana is now part of the repo!  I'm leaving this question for historical purposes and because I still plan to start adding Kanji eventually (Or at least, the basic radicals).
 
 ### Hey, you forgot one!
 
